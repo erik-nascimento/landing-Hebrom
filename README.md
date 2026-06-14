@@ -5,8 +5,10 @@
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
--HTML
--CSS
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<br>
 <img src="https://raw.githubusercontent.com/erik-nascimento/landing-Hebrom/11ecf930a931e0b90f2f2e02273328c8798f5dbf/img/Captura%20de%20tela%202026-06-14%20092448.png" />
 <img src="https://github.com/erik-nascimento/landing-Hebrom/blob/master/img/Captura%20de%20tela%202026-06-14%20093054.png?raw=true" />
 
